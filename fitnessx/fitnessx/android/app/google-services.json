@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92463144203",
+    "firebase_url": "https://fitnessx-ef311.firebaseio.com",
+    "project_id": "fitnessx-ef311",
+    "storage_bucket": "fitnessx-ef311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92463144203:android:dddcb542a296280f",
+        "android_client_info": {
+          "package_name": "com.mohitbhole.fitnessx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92463144203-bpc7376h98o9cejontrop8upvqg6m7n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohitbhole.fitnessx",
+            "certificate_hash": "f87b09bf9aa3bab45fece5c375a3539c716fb945"
+          }
+        },
+        {
+          "client_id": "92463144203-mrmi0e14c40orkv7b176ia0k0u925ll9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAxJm6GcfHJRn1BInWUlMRUJXnHq426Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92463144203-mrmi0e14c40orkv7b176ia0k0u925ll9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

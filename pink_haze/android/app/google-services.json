@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "486251715098-all25l73vmgb0rk1tk82ffdfr12c8lm1.apps.googleusercontent.com",
+          "client_id": "486251715098-16f5ddldg5fusbash7s93kdioc6ahan2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.mohitbhole.fitnessx",
-            "certificate_hash": "03fec33b12684d68d5b1711d71718f777a2cece3"
+            "certificate_hash": "8d5fc393260125a14d3d2d0e7d20f50455e9f076"
           }
         },
         {
